@@ -1,5 +1,3 @@
-Meaghan Boykin
+This is an expansion of a project done for CS 315 at Sonoma State University. The original project was a simple snake game. I added the portal feature, which allows you to enter into walls. Whichever color you portal into, you will portal out of.
 
-I have not included any code that I did not write.
-I have not provided any code to anyone else.
-I have implemented all features.
+This program is meant to run on systems that support C's curses library (Unix, Linux).
