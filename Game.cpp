@@ -25,7 +25,7 @@ void Game::play() {
 		moveRainbow(true);
 		refresh();
 	}
-	// if this line is reached, user pressed X
+	// if this line is reached, user pressed Q
 	terminateScreen();
 	gameOver(false); // worm did not die
 }
